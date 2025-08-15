@@ -1,4 +1,3 @@
-![logo](C:\Users\Admin\Pictures\Saved Pictures\website)
 <h1 align="center">Hi 👋, I'm Laiba</h1>
 <h3 align="center">I'm currently working on web projects</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/56d52e22-571d-42fc-8b9b-bc1a037734e5"/>
